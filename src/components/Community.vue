@@ -5,10 +5,6 @@ import card3Img from '../assets/card 3.png'
 import card4Img from '../assets/card 4.svg'
 import GoogleImg from '../assets/Google.svg' 
 
-const ioconnentImg = card1Img
-const buildgeminiImg = card2Img
-const cloudsummitImg = card3Img
-
 </script>
 
 <template> 

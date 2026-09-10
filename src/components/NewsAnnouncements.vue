@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import NewsAnnouncementsImage from '../assets/News-Announcement.png'
 
 import { ref } from 'vue'

@@ -1,8 +1,6 @@
 vue
 <script setup lang="ts">
 import googleDeveloperslogo from '../assets/lockup-new.svg'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faMagnifyingGlass, faGlobe } from '@fortawesome/free-solid-svg-icons'
 </script>
 
 <template>
